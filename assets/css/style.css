@@ -60,6 +60,8 @@ body {
     height: 600px;
     width: 100%;
     overflow: hidden;
+
+    position: relative; 
 }
 
 #cover-text, #cover-text h2 {
@@ -87,5 +89,10 @@ body {
     padding-left: 10px;
 
     background-color: rgba(70, 67, 98, .7);
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
 }
 
