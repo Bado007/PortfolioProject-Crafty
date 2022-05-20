@@ -109,7 +109,7 @@ body {
     padding-top: 30px;
     width: 33%;
     float: left;
-    background-color: aqua;
+    /* pic later */
 }
 
 #right-about {
@@ -117,10 +117,26 @@ body {
     width: 33%;
     float: right;
     background-color: burlywood;
+     /* pic later */
 }
 
 #center-about {
     width: 33%;
     margin: 0 auto;
     background-color: chocolate;
+     /* pic later */
+}
+
+hr {
+    border-top: 1px dotted #3a3a3a;
+    width: 100%;
+    margin: 3px 0;
+}
+
+.left-about-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear:both;
+    margin-bottom: 50px;
 }
