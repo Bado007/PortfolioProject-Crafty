@@ -50,3 +50,19 @@ body {
  .active {
      border-bottom: 1px dotted #3a3a3a;
  }
+
+ /* Hero image */
+
+ #hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+ 
+ #hero-image {
+     height: 600px;
+     width: 100%;
+     background: url(../images/hero-image.jpg) no-repeat;
+ }
+
+ /* Ilusion of "ZOOM" for hero image*/
