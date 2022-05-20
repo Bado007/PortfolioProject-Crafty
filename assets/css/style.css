@@ -105,6 +105,11 @@ body {
     
 }
 
+#center-align {
+    text-align: center;
+
+}
+
 #left-about {
     padding-top: 30px;
     width: 33%;
@@ -155,4 +160,8 @@ hr {
     line-height: 20px;
     clear:both;
     margin-bottom: 50px;
+}
+
+.about-paragraph {
+    text-align: center;
 }
