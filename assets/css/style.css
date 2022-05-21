@@ -214,6 +214,8 @@ hr {
     margin: 40px 20px;
 }
 
+ /* Call to action "Our Service Page" */
+
 #our-offer, th, td {
     border: 1px #3a3a3a dotted;
     margin: 0 20px;
@@ -223,3 +225,13 @@ hr {
     text-align: center;
     text-decoration: none;
 }
+
+ /* Contact Us page  */
+
+ .contact-block {
+     display: flex;
+     justify-content: center;
+     align-items: center; 
+
+     margin-top: 30px;
+ }
