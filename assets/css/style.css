@@ -114,22 +114,21 @@ body {
     padding-top: 30px;
     width: 33%;
     float: left;
-    /* pic later */
 }
+
 
 #right-about {
     padding-top: 30px;
     width: 33%;
     float: right;
 
-     /* pic later */
+
 }
 
 #center-about {
     width: 33%;
     margin: 0 auto;
-    background-color: chocolate;
-     /* pic later */
+    
 }
 
 hr {
@@ -164,4 +163,16 @@ hr {
 
 .about-paragraph {
     text-align: center;
+}
+
+.center-about-heading {
+    background-image: none;
+    margin: 30px 20px;
+}
+
+.center-about-image {
+    margin: 20px o;
+    padding: 0;
+    width: 100%;
+    border-radius: 100px;
 }
