@@ -113,22 +113,24 @@ body {
 #left-about {
     padding-top: 30px;
     width: 33%;
-    float: left;
+    
+    margin-right: 30px;
 }
 
 
 #right-about {
     padding-top: 30px;
     width: 33%;
-    float: right;
-
+    
+    margin-left: 30px;
 
 }
 
 #center-about {
     width: 33%;
-    margin: 0 auto;
-    
+    margin: 0;
+    display: flex;
+    justify-content: center;
 }
 
 hr {
@@ -176,3 +178,16 @@ hr {
     width: 100%;
     border-radius: 100px;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+@media screen and (max-width: 700px) {
+    .center-about-image {
+      display: none;
+    }
+  }
