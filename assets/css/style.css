@@ -282,4 +282,24 @@ hr {
 }
 
  /* footer */
- 
+
+ .footer-block {
+     background-color: #2a2a2a;
+     height: 25px;
+     width: 100%;
+     margin-top: 10px;
+     padding: 10px;
+ }
+
+ .footer-text {
+     display: flex;
+     justify-content: flex-start;
+     align-items: center;
+ }
+
+ .footer-text h3 {
+    font-family: 'Merriweather Sans', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #efefef;
+ }
