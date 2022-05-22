@@ -75,6 +75,12 @@ I noticed that some lines of code weren't executed because of closing brackets o
 
 ## Bugs
 
+I encountered many bugs along the way. Majority is resolved, but few remains:
+- Footer on the service page is not Bottom-aligned
+- Calls to action don't have a dotted underline when hovered over
+- Responsiveness of main page 
+- Alignment of elements on home page when screen size changed
+
 ## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -98,9 +104,11 @@ I used external sources for compleating this project seek inspiration and solve 
 
 - I wish to improve media querrys on the page so it will be more responsive for small devices. 
 - Improve footer on service page to stick to the bottom. 
-- Improve user experience with more content and page loading speed 
-- Animate calls to action 
-- Add Social media links in the footer
-- Use a new color combination <img width="672" alt="Screenshot 2022-05-22 at 22 25 33" src="https://user-images.githubusercontent.com/103571907/169714474-4c926919-25c9-413a-abee-85a6abeae481.png">
+- Improve user experience with more content and page loading speed.
+- Animate calls to action.
+- Add Social media links in the footer.
+- Use a new color combination.
+<img width="672" alt="Screenshot 2022-05-22 at 22 25 33" src="https://user-images.githubusercontent.com/103571907/169714474-4c926919-25c9-413a-abee-85a6abeae481.png">
+-Replace table with an ordered list.
 
-- 
+
