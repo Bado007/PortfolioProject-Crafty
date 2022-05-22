@@ -58,6 +58,16 @@ Crafty Lab is a small dental laboratory in Stockholm, that is specialized in aes
 ## Testing 
 <br>
 <br>
-Tests https://validator.w3.org/
-
-
+Tests were performed both for HTML and CSS.
+<br>
+### HTML 
+<br>
+- I encountered an error while organizing the structure of the code. It notified me that I was missing a closing tag of my code. The issue was resolved.
+<br>
+- I noticed an issue with empty elemnts and a SUGGESTIONS  of replacing H1 elements with H2.
+-I used a [W3C](https://validator.w3.org) website to test my code for ERRORS. 
+<br>
+<br>
+### CSS 
+<br>
+For 
