@@ -212,13 +212,19 @@ hr {
     }
   }
 
+.bottom-container h3 {
+    margin-top: 30px;
+    color: #3a3a3a;
+}
+
   /* Services page  */
 
 #service-block {
     height: 600px;
     width: 100%;
-    margin-top: 50px;
-}
+    display: flex;
+    align-items: stretch;
+    }
 
 #table-block {
     display: flex;
@@ -235,11 +241,19 @@ hr {
     margin: 40px 20px;
 }
 
- /* Call to action "Our Service Page" */
+ /* Table "Service Page" */
 
 #our-offer, th, td {
     border: 1px #3a3a3a dotted;
     margin: 0 20px;
+}
+
+ /* Call to action "Service Page" */
+
+.book-today-block {
+    width: 100%;
+    height: 50px;
+    color: #efefef;
 }
 
 #book-today-bottom, a {
@@ -311,10 +325,6 @@ hr {
      padding: 10px;
      display: flex;
      justify-content: space-evenly;
- }
-
- .footer-link a:hover {
-    border-bottom: 1px dotted #efefef;
  }
 
  .footer-text h3 {
