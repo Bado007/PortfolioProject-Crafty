@@ -1,6 +1,10 @@
 # Crafty Lab
 Crafty Lab is a small dental laboratory in Stockholm, that is specialized in aesthetics. Its purpose is to describe the costumer about technologies they use and to convert them into customers.
 
+<img width="1440" alt="Screenshot 2022-05-22 at 22 54 26" src="https://user-images.githubusercontent.com/103571907/169715396-4f4ca06b-814f-4fbd-9640-9465d02156b9.png">
+
+
+
 ## Features
 
 #### 1. Clean home page
