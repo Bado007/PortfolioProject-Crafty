@@ -289,12 +289,12 @@ hr {
      width: 100%;
      margin-top: 10px;
      padding: 10px;
+     display: flex;
+     justify-content: space-evenly;
  }
 
- .footer-text {
-     display: flex;
-     justify-content: flex-start;
-     align-items: center;
+ .footer-link a:hover {
+    border-bottom: 1px dotted #efefef;
  }
 
  .footer-text h3 {
@@ -303,3 +303,4 @@ hr {
     letter-spacing: 3px;
     color: #efefef;
  }
+
