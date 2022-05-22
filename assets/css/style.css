@@ -96,12 +96,32 @@ body {
 
     position: absolute;
 }
+/* Welcome pitch */
+
+.pitch {
+    background-color: rgba(70, 67, 98, .7);
+    height: 200px;
+    width: 100%;
+    padding-top: 30px;
+    color: #efefef;
+}
+
+.pitch h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    color: #efefef;
+}
+
+
 
 /* middle section - (Meet the team) */
 
 #the-team {
     height: 600px;
     width: 100%;
+    padding-top: 20px;
     
 }
 
